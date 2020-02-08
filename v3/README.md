@@ -28,6 +28,6 @@ Android : https://www.youtube.com/watch?v=ZdxCqhCgK2Q&feature=youtu.be
 - Video how to use it : https://www.youtube.com/watch?v=zB1UAYzkk-w&feature=youtu.be&fbclid=IwAR1rxOnVlk7QGh-6UGNfvfzeFP1JDe71Fod7wICq7_trfgr06WnFEggAefM
 
 
-#Support
+# Support
 
 More information and support can always be found at : www.boat-vitals.com 
