@@ -4,7 +4,7 @@ For initial software flash or factory reset please follow the steps:
 
 1. Unzip: boat-vitals/advanced/v3/upload_scripts/upload_scripts.zip
 
-2. Copy inside the files for you exact hardware platform (latest release) : e.g. from boat-vitals/advanced/v3/HELTEC32/1164
+2. Copy inside the files for you exact hardware platform (latest release) : e.g. from boat-vitals/advanced/v3/HELTEC32/1178
 
 3. Edit the COM port in erase.cmd and execute it
 
